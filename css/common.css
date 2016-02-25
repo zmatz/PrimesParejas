@@ -1,0 +1,19 @@
+.btn {
+	padding: 10px;
+}
+.btn-black {
+	background: black;
+	opacity: 0.8;
+}
+.btn-white {
+	background: white;
+	opacity: 0.8;
+	padding: 10px;
+}
+.btn-submit{
+	background: #0dc0c0;
+}
+/*----- H -----*/
+header h2 {
+	font-size: 45px;
+}
